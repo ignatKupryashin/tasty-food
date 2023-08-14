@@ -5,6 +5,6 @@ export interface IRestaurantReviews {
     userName: string,
     userLastName: string,
     grade: Grade,
-    comment: string
-    dateTime: Date
+    comment: string,
+    dateTime: Date,
 }

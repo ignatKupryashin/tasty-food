@@ -1,4 +1,4 @@
-import {IIngredientItem} from "./IIngredientItem";
+import {IIngredientItem} from "../IIngredientItem";
 
 export interface IDish {
     calories: number,

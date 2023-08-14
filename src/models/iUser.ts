@@ -3,6 +3,6 @@ export interface IUser {
     phoneNumber: number,
     firstName: string,
     lastName: string,
-    Role: string,
-    discount: number
+    role: string,
+    discount: number,
 }

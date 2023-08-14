@@ -6,5 +6,5 @@ export interface IOrders {
     price: number,
     isFinished: boolean,
     dateTime: Date,
-    orderElements: IOrderElements[]
+    orderElements: IOrderElements[],
 }
